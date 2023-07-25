@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on ML projects.
 - 🌱 I’m currently learning EDA
 - 👯 I’m looking to collaborate on Github
-- 🤔 I’m looking for help with ML algorithms.
+- 🤔 I’m looking for help with software developement.
 - 💬 Ask me about tech!
 - 📫 How to reach me: [Robel Berhanu](https://robelberhanu.github.io/)
 - 😄 Pronouns: He/His
