@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ML projects.
-- 🌱 I’m currently learning EDA
+- 🌱 I’m currently learning full stack developement.
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with software developement.
 - 💬 Ask me about tech!
