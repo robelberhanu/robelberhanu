@@ -8,5 +8,5 @@
 - 💬 Ask me about tech!
 - 📫 How to reach me: [Robel Berhanu](https://robelberhanu.github.io/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Ketchup was once sold as medicine 😄
+- ⚡ Fun fact: Elephants can’t jump 😄
 
