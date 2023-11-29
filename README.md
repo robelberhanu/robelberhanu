@@ -16,7 +16,7 @@ Welcome to my GitHub profile! Here's a bit about me and what I love to do:
 ---
 
 #### 🛠️ Technologies & Tools
-![Technologies Image](![image](https://github.com/robelberhanu/robelberhanu/assets/38796505/3b0bbaee-7e5a-4135-95fd-94e07eb11ad6)) <!-- Replace with an image that represents the technologies you use -->
+![Technologies Image](![image](https://github.com/robelberhanu/robelberhanu/assets/38796505/3b0bbaee-7e5a-4135-95fd-94e07eb11ad) <!-- Replace with an image that represents the technologies you use -->
 
 - **Languages:** Python, JavaScript, Java.
 - **Frameworks/Libraries:** React, FastAPI, Spring boot, Flask.
