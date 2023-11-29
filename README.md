@@ -2,7 +2,7 @@
 
 #### 🌱 I'm a Passionate Software Developement with a Keen Interest in Machine Learning
 
-![Banner Image](URL_to_a_wide_banner_image) <!-- Replace with the URL of a banner image that represents you or your interests -->
+![Banner Image](https://github.com/robelberhanu/myImages/blob/main/coder.jpg?raw=true) <!-- Replace with the URL of a banner image that represents you or your interests -->
 
 Welcome to my GitHub profile! Here's a bit about me and what I love to do:
 
