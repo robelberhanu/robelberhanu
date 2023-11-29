@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Robel!
 
-#### 🌱 I'm a Passionate Software Developer with a Keen Interest in Machine Learning
+#### 🌱 I'm a Passionate Software Developement with a Keen Interest in Machine Learning
 
 ![Banner Image](URL_to_a_wide_banner_image) <!-- Replace with the URL of a banner image that represents you or your interests -->
 
