@@ -46,7 +46,7 @@ I'm also interested in machine learning and its applications.
 #### 💼 Looking Forward
 I'm always open to interesting conversations and collaboration on projects in software development and machine learning.
 
-![Collaboration Image](URL_to_collaboration_image) <!-- Replace with an image that represents collaboration or teamwork -->
+![Collaboration Image](https://github.com/robelberhanu/myImages/blob/main/collab.png?raw=true) <!-- Replace with an image that represents collaboration or teamwork -->
 
 Feel free to check out my repositories and don't hesitate to reach out if you have any questions or ideas!
 
