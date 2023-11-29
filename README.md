@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here's a bit about me and what I love to do:
 ---
 
 #### 🚀 About Me
-- 🎓 I'm currently learning/working on [specific software development technologies or machine learning topics you're interested in].
+- 🎓 I'm currently learning/working on <!--[specific software development technologies or machine learning topics you're interested in]. -->
 - 💡 I love exploring new technologies and developing software solutions.
 - 🎯 My goal is to build applications that can make a difference.
 
@@ -18,9 +18,9 @@ Welcome to my GitHub profile! Here's a bit about me and what I love to do:
 #### 🛠️ Technologies & Tools
 ![Technologies Image](URL_to_technologies_image) <!-- Replace with an image that represents the technologies you use -->
 
-- **Languages:** Python, JavaScript, Java, [any other programming languages you use].
-- **Frameworks/Libraries:** React, Node.js, TensorFlow, PyTorch, [any other frameworks or libraries you use].
-- **Tools:** Git, Docker, Kubernetes, [any other tools you use].
+- **Languages:** Python, JavaScript, Java.
+- **Frameworks/Libraries:** React, FastAPI, Spring boot, Flask.
+- **Tools:** Git, Docker, Postman, VS code.
 
 ---
 
