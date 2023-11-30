@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here's a bit about me and what I love to do:
 ---
 
 #### 🚀 About Me
-- 🎓 I'm currently learning/working on <!--[specific software development technologies or machine learning topics you're interested in]. -->
+- 🎓 I'm currently learning/working on web and desktop applications.
 - 💡 I love exploring new technologies and developing software solutions.
 - 🎯 My goal is to build applications that can make a difference.
 
