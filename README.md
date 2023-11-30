@@ -36,7 +36,7 @@ I'm also interested in machine learning and its applications.
 ---
 
 #### 📫 How to Reach Me
-![Contact Image](URL_to_contact_image) <!-- Replace with an image that signifies contact or networking -->
+<!-- ![Contact Image](URL_to_contact_image) <!-- Replace with an image that signifies contact or networking -->
 
 - Connect with me on [LinkedIn](Your LinkedIn Profile Link).
 - Email me at [your email address].
