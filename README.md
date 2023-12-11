@@ -44,7 +44,7 @@ I'm also interested in machine learning and its applications.
 ---
 
 #### 💼 Looking Forward
-I'm always open to interesting conversations and collaboration on projects in software development and machine learning. Feel free to check out my repositories and don't hesitate to reach out if you have any questions or ideas!
+I'm always open to interesting conversations and collaboration on software development and machine learning projects. Feel free to check out my repositories and don't hesitate to reach out if you have any questions or ideas!
 
 
 
