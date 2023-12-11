@@ -38,7 +38,7 @@ I'm also interested in machine learning and its applications.
 #### 📫 How to Reach Me
 <!-- ![Contact Image](URL_to_contact_image) <!-- Replace with an image that signifies contact or networking -->
 
-- Connect with me on [LinkedIn]([Your LinkedIn Profile Link](https://www.linkedin.com/in/robel-berhanu-134b4a144/)).
+- Connect with me on [LinkedIn] (https://www.linkedin.com/in/robel-berhanu-134b4a144/).
 - Email me at robelberhanu89@gmail.com
 
 ---
