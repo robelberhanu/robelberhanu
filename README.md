@@ -4,6 +4,8 @@
 
 ![Banner Image](https://github.com/robelberhanu/myImages/blob/main/coder.jpg?raw=true) <!-- Replace with the URL of a banner image that represents you or your interests -->
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 Welcome to my GitHub profile! Here's a bit about me and what I love to do:
 
 ---
