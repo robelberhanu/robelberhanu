@@ -30,7 +30,7 @@ Welcome to my GitHub profile! Here's a bit about me and what I love to do:
 - Mars Rover API.
 - More projects can be found in my repositories!
 
-![Projects Image](URL_to_projects_image) <!-- Replace with an image showcasing your projects or interests -->
+![Projects Image](URL_to_projects_image)
 
 I'm also interested in machine learning and its applications.
 
