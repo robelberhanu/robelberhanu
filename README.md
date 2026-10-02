@@ -1,52 +1,97 @@
 ### 👋 Hi there, I'm Robel!
 
-#### 🌱 I'm a Passionate Software Developer with a Keen Interest in Machine Learning
+#### 🌱 Software Developer & Machine Learning Enthusiast
 
-![Banner Image](https://github.com/robelberhanu/myImages/blob/main/coder.jpg?raw=true) <!-- Replace with the URL of a banner image that represents you or your interests -->
+![Banner Image](https://github.com/robelberhanu/myImages/blob/main/coder.jpg?raw=true)
 
-
-Welcome to my GitHub profile! Here's a bit about me and what I love to do:
+Welcome to my GitHub profile! I'm passionate about building scalable applications and exploring machine learning solutions.
 
 ---
 
 #### 🚀 About Me
-- 🎓 I'm currently learning/working on web and desktop applications.
-- 💡 I love exploring new technologies and developing software solutions.
-- 🎯 My goal is to build applications that can make a difference.
+- 🎓 Full-stack developer with expertise in **web applications**, **APIs**, and **desktop applications**.
+- 💡 Passionate about clean code, microservices architecture, and machine learning.
+- 🎯 I build applications that solve real problems and make a difference.
+- 📚 Continuous learner staying updated with latest technologies and frameworks.
 
 ---
 
 #### 🛠️ Technologies & Tools
-![Technologies Image](https://github.com/robelberhanu/myImages/blob/main/languages.png?raw=true) <!-- Replace with an image that represents the technologies you use -->
 
-- **Languages:** Python, JavaScript, Java.
-- **Frameworks/Libraries:** React, FastAPI, Spring boot, Flask.
-- **Tools:** Git, Docker, Postman, VS code.
+**Languages:** Python, JavaScript, Java, Shell
+
+**Frontend:** React, HTML, CSS
+
+**Backend & Frameworks:** FastAPI, Spring Boot, Flask, Django
+
+**Databases & Tools:** Git, Docker, Postman, VS Code, Jupyter Notebooks
+
+**Specializations:** Machine Learning, APIs, Microservices, Data Analysis
 
 ---
 
-#### 🤖 Projects & Interests
-- Products E-commerce Web Application.
-- Mars Rover API.
-- More projects can be found in my repositories!
+#### 🎯 Featured Projects
 
-![Projects Image](URL_to_projects_image)  <!-- Replace with an image showcasing your projects or interests -->
+**🌟 [ML Algorithms From Scratch](https://github.com/robelberhanu/ML_Algorithms_From_Scratch)**
+- Python implementation of core machine learning algorithms from scratch
+- Demonstrates deep understanding of ML fundamentals
+- Educational resource for ML practitioners
 
-I'm also interested in machine learning and its applications.
+**🌟 [Animal Sound Classifier](https://github.com/robelberhanu/animal_sound_classifier)**
+- Machine learning model for classifying animal sounds
+- Combines audio processing with ML classification
+
+**🌟 [Content-Based Product Recommender](https://github.com/robelberhanu/content_based_product_recommender)**
+- Recommendation system using cosine similarity algorithm
+- E-commerce focused solution
+
+**🌟 [Mars Rover API Web App](https://github.com/robelberhanu/MarsRoverApi-WebApp)**
+- Spring Boot application integrating NASA APIs
+- Fetches and displays Mars rover imagery
+- Full-stack web application
+
+**🌟 [CHD Prediction App](https://github.com/robelberhanu/chd_prediction_app)**
+- Coronary heart disease prediction using logistic regression
+- Data-driven health analytics application
+
+**🌟 [Spring Boot Microservice](https://github.com/robelberhanu/department-service)**
+- Enterprise-level microservice architecture
+- Demonstrates backend best practices
+
+**🌟 [Todo App Frontend](https://github.com/robelberhanu/todoapp_frontend)**
+- Modern React application
+- Full-featured frontend implementation
+
+---
+
+#### 📊 Areas of Expertise
+
+✅ **Full-Stack Development** - Building end-to-end solutions  
+✅ **Machine Learning** - Model development and data analysis  
+✅ **API Design** - RESTful and FastAPI implementations  
+✅ **Microservices** - Scalable backend architecture  
+✅ **Data Science** - Statistical analysis and predictions  
 
 ---
 
 #### 📫 How to Reach Me
-<!-- ![Contact Image](URL_to_contact_image) <!-- Replace with an image that signifies contact or networking -->
 
-- Connect with me on [LinkedIn] (https://www.linkedin.com/in/robel-berhanu-134b4a144/).
-- Email me at robelberhanu89@gmail.com
+- 🔗 **LinkedIn:** [robel-berhanu-134b4a144](https://www.linkedin.com/in/robel-berhanu-134b4a144/)
+- 📧 **Email:** robelberhanu89@gmail.com
+- 📌 **Portfolio:** [My Portfolio Website](https://github.com/robelberhanu/My_Portfolio_Website)
 
 ---
 
-#### 💼 Looking Forward
-I'm always open to interesting conversations and collaboration on software development and machine learning projects. Feel free to check out my repositories and don't hesitate to reach out if you have any questions or ideas!
+#### 💼 Let's Connect!
 
+I'm always interested in:
+- 🤝 Collaborating on exciting projects
+- 💬 Discussing software architecture and ML solutions
+- 🚀 Building products that create real impact
+- 📖 Learning from the developer community
 
+Feel free to explore my repositories and don't hesitate to reach out for collaborations, discussions, or opportunities!
 
+---
 
+**⭐ If you find my work interesting, consider giving my repositories a star!**
