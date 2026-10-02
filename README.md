@@ -1,97 +1,89 @@
 ### 👋 Hi there, I'm Robel!
 
-#### 🌱 Software Developer & Machine Learning Enthusiast
+#### 💼 Full-Stack Developer | API & Microservices | Travel & FinTech Solutions
 
-![Banner Image](https://github.com/robelberhanu/myImages/blob/main/coder.jpg?raw=true)
-
-Welcome to my GitHub profile! I'm passionate about building scalable applications and exploring machine learning solutions.
+Welcome to my GitHub profile! I'm a software developer with a focus on building scalable production systems for travel and financial technology domains.
 
 ---
 
-#### 🚀 About Me
-- 🎓 Full-stack developer with expertise in **web applications**, **APIs**, and **desktop applications**.
-- 💡 Passionate about clean code, microservices architecture, and machine learning.
-- 🎯 I build applications that solve real problems and make a difference.
-- 📚 Continuous learner staying updated with latest technologies and frameworks.
+## 🎯 Professional Focus
+
+I specialize in **end-to-end product development** — from API design and backend architecture to frontend implementation and deployment. My recent work spans:
+
+- 🛫 **Travel Technology** — Flight booking systems, GDS integrations, travel agent platforms
+- 💳 **FinTech Solutions** — Payment processing, POS systems, transaction management
+- 🔧 **API & Microservices** — Scalable backend systems, data integration, real-time features
+- 📱 **Cross-Platform Development** — Web, mobile (Capacitor), desktop (Electron) applications
 
 ---
 
-#### 🛠️ Technologies & Tools
+## 🌟 Featured Projects
 
-**Languages:** Python, JavaScript, Java, Shell
+### **KashPoint** — Enterprise Payment Platform
+- **Multi-platform** desktop app, mobile (Capacitor), and web platform
+- **Tech Stack:** Python backend (FastAPI/Django), JavaScript/TypeScript frontend, Electron, Capacitor
+- **Repositories:** 
+  - [kashpoint-backend](https://github.com/Tesseractz/kashpoint-backend) — REST APIs and transaction processing
+  - [kashpoint-frontend](https://github.com/Tesseractz/kashpoint-frontend) — React web application
+  - [kashpoint-shells](https://github.com/Tesseractz/kashpoint-shells) — Mobile & desktop shells with Supabase
+- **Features:** Cross-platform deployment, real-time data sync, secure transactions
+- **Organization:** [Tesseractz](https://github.com/Tesseractz)
 
-**Frontend:** React, HTML, CSS
+### **AirVoucher** — Travel & Airline Platform
+- **Comprehensive travel ecosystem** with agent, retailer, terminal, admin, and mobile interfaces
+- **Tech Stack:** TypeScript/Node.js backend, React frontend, Java mobile apps, REST APIs
+- **Repositories:**
+  - [airvoucher-api](https://github.com/TRPST/airvoucher-api) — Core API and business logic
+  - [airvoucher-agent](https://github.com/TRPST/airvoucher-agent) — Agent platform (TypeScript)
+  - [airvoucher-admin](https://github.com/TRPST/airvoucher-admin) — Admin dashboard
+  - [airvoucher-terminal](https://github.com/TRPST/airvoucher-terminal) — POS terminal system
+  - [airvoucher-mobile](https://github.com/TRPST/airvoucher-mobile) — Mobile app (Java)
+  - [airvoucher-retailer](https://github.com/TRPST/airvoucher-retailer) — Retailer platform
+  - [AirvoucherPOS](https://github.com/TRPST/AirvoucherPOS) — Point-of-sale system
+- **Features:** Multi-role platform, real-time transaction handling, complex business workflows
+- **Organization:** [TRPST](https://github.com/TRPST)
 
-**Backend & Frameworks:** FastAPI, Spring Boot, Flask, Django
-
-**Databases & Tools:** Git, Docker, Postman, VS Code, Jupyter Notebooks
-
-**Specializations:** Machine Learning, APIs, Microservices, Data Analysis
-
----
-
-#### 🎯 Featured Projects
-
-**🌟 [ML Algorithms From Scratch](https://github.com/robelberhanu/ML_Algorithms_From_Scratch)**
-- Python implementation of core machine learning algorithms from scratch
-- Demonstrates deep understanding of ML fundamentals
-- Educational resource for ML practitioners
-
-**🌟 [Animal Sound Classifier](https://github.com/robelberhanu/animal_sound_classifier)**
-- Machine learning model for classifying animal sounds
-- Combines audio processing with ML classification
-
-**🌟 [Content-Based Product Recommender](https://github.com/robelberhanu/content_based_product_recommender)**
-- Recommendation system using cosine similarity algorithm
-- E-commerce focused solution
-
-**🌟 [Mars Rover API Web App](https://github.com/robelberhanu/MarsRoverApi-WebApp)**
-- Spring Boot application integrating NASA APIs
-- Fetches and displays Mars rover imagery
-- Full-stack web application
-
-**🌟 [CHD Prediction App](https://github.com/robelberhanu/chd_prediction_app)**
-- Coronary heart disease prediction using logistic regression
-- Data-driven health analytics application
-
-**🌟 [Spring Boot Microservice](https://github.com/robelberhanu/department-service)**
-- Enterprise-level microservice architecture
-- Demonstrates backend best practices
-
-**🌟 [Todo App Frontend](https://github.com/robelberhanu/todoapp_frontend)**
-- Modern React application
-- Full-featured frontend implementation
+### **TAS Portals** — Travel Agency System
+- **Flight booking engine** with GDS connectivity
+- **Tech Stack:** TypeScript/React, microservices architecture
+- **Features:** Flight search & booking, inventory management, complex integrations
 
 ---
 
-#### 📊 Areas of Expertise
+## 🛠️ Technology Stack
 
-✅ **Full-Stack Development** - Building end-to-end solutions  
-✅ **Machine Learning** - Model development and data analysis  
-✅ **API Design** - RESTful and FastAPI implementations  
-✅ **Microservices** - Scalable backend architecture  
-✅ **Data Science** - Statistical analysis and predictions  
+**Languages:** Python, JavaScript, TypeScript, Java, SQL
+
+**Backend:** FastAPI, Django, Node.js/Express, Spring Boot
+
+**Frontend:** React, HTML, CSS, TypeScript
+
+**Databases:** PostgreSQL, Supabase, Electron/SQLite for desktop
+
+**Cross-Platform:** Capacitor (mobile), Electron (desktop), React Native considerations
+
+**Tools & Platforms:** Git, Docker, Postman, VS Code, GitHub Actions
+
+**Architecture:** REST APIs, Microservices, Real-time data sync, Multi-platform deployment
 
 ---
 
-#### 📫 How to Reach Me
+## 📚 Additional Expertise
+
+- **Machine Learning & Data Science** — Python ML implementations, data analysis
+- **System Design** — Scalable architectures, API design, database optimization
+- **DevOps & Deployment** — Docker containerization, cloud deployment
+
+*See my [ML projects](https://github.com/robelberhanu?tab=repositories&q=ML) for more on this area.*
+
+---
+
+## 📫 Let's Connect
 
 - 🔗 **LinkedIn:** [robel-berhanu-134b4a144](https://www.linkedin.com/in/robel-berhanu-134b4a144/)
 - 📧 **Email:** robelberhanu89@gmail.com
-- 📌 **Portfolio:** [My Portfolio Website](https://github.com/robelberhanu/My_Portfolio_Website)
+- 💬 **Open to:** Collaborations on fintech, travel tech, API design, and system architecture
 
 ---
 
-#### 💼 Let's Connect!
-
-I'm always interested in:
-- 🤝 Collaborating on exciting projects
-- 💬 Discussing software architecture and ML solutions
-- 🚀 Building products that create real impact
-- 📖 Learning from the developer community
-
-Feel free to explore my repositories and don't hesitate to reach out for collaborations, discussions, or opportunities!
-
----
-
-**⭐ If you find my work interesting, consider giving my repositories a star!**
+**Interested in production-grade systems? Check out the repositories above or reach out to discuss your project!**
