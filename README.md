@@ -1,5 +1,5 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e293b&height=190&section=header&text=Robel%20Berhanu&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20API%20%26%20Microservices%20%E2%80%A2%20Travel%20%26%20FinTech&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Robel Berhanu — Full-Stack Developer" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e293b&height=190&section=header&text=Robel%20Berhanu&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20API%20%26%20Microservices%20%E2%80%A2%20Travel%20%26%20FinTech&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Robel Berhanu — Full-Stack Developer" /> -->
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0EA5E9&center=true&vCenter=true&width=720&lines=Production+systems+for+travel+%26+financial+technology;Flight+booking+engines+%E2%80%A2+NDC+%26+GDS+integrations;Payment+platforms+%E2%80%A2+wallets+%E2%80%A2+ledgers+%E2%80%A2+POS;FastAPI+%E2%80%A2+React+%E2%80%A2+PostgreSQL+%E2%80%A2+GitHub+Actions" alt="Typing SVG" /></a>
